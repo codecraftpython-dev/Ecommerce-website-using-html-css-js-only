@@ -3,7 +3,7 @@
 A fully responsive **E-Commerce Website** built using **HTML, CSS, and JavaScript**.  
 It includes product listings, shopping cart functionality, and a modern clean interface for a smooth shopping experience. ✨
 
-![image alt](https://github.com/codecraftpython-dev/Ecommerce-website-using-html-css-js-only/blob/main/demo.png?raw=true)
+![image alt](img1.png)
 
 ## 🚀 Features
 - 🛍️ Browse products with images, names, and prices  
